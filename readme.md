@@ -1,4 +1,4 @@
-# 0xCBOB
+# Буран
 
 QMK firmware for the [buran](https://github.com/ScatteredDrifter/Buran-Ortho) by ScatteredDrifter 
 
